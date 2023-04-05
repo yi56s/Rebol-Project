@@ -1,5 +1,5 @@
-hello rebol! hello!  222
-hello rebol! hello!
+hello rebol! hello!  22222
+hello rebol! hello!  33333
 hello rebol! hello!
 hello rebol! hello!
 hello rebol! hello!
