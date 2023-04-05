@@ -5,5 +5,5 @@ hello rebol! hello!
 hello rebol! hello!
 hello rebol! hello!
 hello rebol! hello!
-hello rebol! hello!
+hello rebol! hello! master test
 hello rebol! hello!
